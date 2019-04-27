@@ -1,39 +1,44 @@
 # Usability Evaluation and Prototyping (again)
-> Usability Evaluation in this assignment is to evaluate your high-fidelity interactive-prototype with two participants:
-> the participant from the previous Contextual Inquiry (CI) 
-> and an additional novice-participant with different demographics if possible.
-> Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
+
+- [Operating the Prototype](#operating-the-prototype)
+- [Part A: Usability Evaluation](#part-a-usability-evaluation)
+  - [1. Brief Description of Participants](#1-brief-description-of-participants)
+    - [a. Description of Participant 1](#a-description-of-participant-1)
+    - [b. Description of Participant 2](#b-description-of-participant-2)
+  - [2. Evaluation Script](#2-evaluation-script)
+  - [3. Transcript](#3-transcript)
+    - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+    - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+  - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+    - [OBSERVATION 1](#observation-1)
+    - [OBSERVATION 2](#observation-2)
+    - [OBSERVATION 3](#observation-3)
+- [Part B: Prototyping](#part-b-prototyping-again)
+  - [Sketch](#sketch)
+  - [Design Rationale](#design-rationale)
+  - [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+[![Integra](/assets/integra.jpg)](https://www.youtube.com/watch?v=0T3LDVdti2M)<br>
+[High Fidelity Interactive Prototype Video](https://www.youtube.com/watch?v=0T3LDVdti2M)
 
 ---
 
 ## Part A: Usability Evaluation
-> In this part, you should prepare your high-fidelity interactive-prototype from the assignment 2.
-> Invite the participant from your previous CI to test the prototype.
-> You also need to invite one more novice participant.
-> As with the CI, you might need to videotape your sessions.
-> You can benefit from the videotape while writing your `Recording Transcript` later.
 
 ### 1. Brief Description of Participants
-> Describe your participants in bullets or sentences.
-> The description should contain their demographic (age, gender, occupation),
-> their skill level in using the system, and your reasons choosing them.
-> The description should NOT contain any personally identifiable information.
-
 #### a. Description of Participant 1
- - The Quick 
- - Brown Fox 
- - Jumps Over 
- - The Lazy Dog
+ - 22 years old male.
+ - He is student of Industrial Engineering ITS.
+ - He has good experience using computers everyday.
+ - He uses integra several times.
+ 
 
 #### b. Description of Participant 2
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ - 19 years old female.
+ - She is a new student in Civil Engineering ITS.
+ - She has experience using computers.
+ - She never used integra.
 
 ### 2. Evaluation Script
 > Write the questions you ask and the instructions you use to direct the participants on what to do.
