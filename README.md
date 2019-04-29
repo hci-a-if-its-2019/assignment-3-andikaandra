@@ -20,7 +20,7 @@
 
 ## Operating the Prototype
 [![Integra](/assets/integra.jpg)](https://www.youtube.com/watch?v=0T3LDVdti2M)<br>
-[High Fidelity Interactive Prototype Video](https://www.youtube.com/watch?v=0T3LDVdti2M)
+[High Fidelity Interactive Prototype Video](https://youtu.be/C0cMpDbRFLo)
 
 ---
 
@@ -31,35 +31,60 @@
  - 22 years old male.
  - He is student of Industrial Engineering ITS.
  - He has good experience using computers everyday.
- - He uses integra several times.
+ - Familiar with information system website 
  
 
 #### b. Description of Participant 2
- - 19 years old female.
- - She is a new student in Civil Engineering ITS.
- - She has experience using computers.
- - She never used integra.
+ - 46 years old female.
+ - She is an entrepreneur.
+ - She has little experience using computers.
 
 ### 2. Evaluation Script
-> Write the questions you ask and the instructions you use to direct the participants on what to do.
-> If it is the same as previous assignments, please mention this, yet go ahead and INCLUDE it again,
-> so we have everything in one place.
-> Note that the evaluation script must include exactly what you plan to say to the participants.
+#### Question
+ - Are you know website about information system?
+ - Are you familiar about reading information on website?
+ - How important is the classification of content on an information system website?
+#### Instruction
+ - Find scholarship information in 2019
+ - Find scholarship grantee in 2018
+ - Find scholarship grantee in 2017
+ - Find scholarship grantee in 2016
 
 ### 3. Transcript
-> Provide a summary of what the participant did and said, and what you did and said.
-> If at some points you have to help the participants, because they cannot figure out what to do,
-> that scene must be included in the transcript.
-> It is not necessary to write down every word the participant said,
-> just what is interesting and useful.
-> Ensure to write down all the actions on the device, whether correct or wrong.
-> Remember to supplement the transcript with time-codes or line-numbers.
-
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **Me**: Halo, selamat malam
+ 1. **Him**: Malam
+ 1. **Me**: Kali ini saya minta bantuan untuk mencoba prototype berikut (menunjukkan prototypenya)
+ 1. **Him**: Okee ga masalah
+ 1. **Me**: Sebelumnya, apa anda pernah tau atau mengerti tentang web sistem informasi?
+ 1. **Him**: Tau sih, juga lumayan sering mengasksesnya
+ 1. **Me**: Baiklah, apakah anda juga familiar atau sering membaca informasi di suatu website?
+ 1. **Him**: Sama saja sih, baca-baca berita atau buka nilai di portal akademik kan juga sama :grin:
+ 1. **Me**: Oke oke
+ 1. **Me**: Menurut anda seberapa penting pengkhususan/klasifikasi dari sebuah informasi seperti pembagian-pembagian konten sesuai waktu?
+ 1. **Him**: Menurut saya sangat penting, karena kita tidak akan melihat informasi jika pas pada saat ini, dan jika terlalu banyak ditampilkan juga lebih susah bacanya
+ 1. **Me**: Sekarang saya mulai ya, silahkan dibuka dulu ini (memberikan laptop kepada dia)
+ 1. **Him**: Oke
+ 1. **Me**: Coba cari informasi tentang beasiswa tahun 2019
+ 1. **Him**: Hmm oke, ini sepertinya di awal buka sudah menampilkan tahun 2019, aku liat-liat kebawah dulu
+ 1. **Him**: Udah
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Terus sekarang coba liat penerima beasiswa pada tahun 2018
+ 1. **Him**: ~Klik sidebar tahun 2018~
+ 1. **Him**: Ini udah
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Okee, sekarang kamu coba liat penerima beasiswa pada tahun 2017, lalu kamu baca-baca sampe bawah
+ 1. **Him**: ~Klik sidebar tahun 2017~
+ 1. **Him**: ~Membaca sampai bagian bawah~
+ 1. **Me**: Udah
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Sekarang coba kamu liat penerima beasiswa tahun 2016
+ 1. **Him**: Okee aku liat dulu
+ 1. **Him**: Udah
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Okee, makasih banyak bantuannya yaa
+ 1. **Him**: Sama-sama
+
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
