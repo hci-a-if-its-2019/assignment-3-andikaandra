@@ -38,6 +38,7 @@
  - 46 years old female.
  - She is an entrepreneur.
  - She has little experience using computers.
+ - Usually access the internet using a cellphone
 
 ### 2. Evaluation Script
 #### Question
@@ -59,7 +60,7 @@
  1. **Me**: Sebelumnya, apa anda pernah tau atau mengerti tentang web sistem informasi?
  1. **Him**: Tau sih, juga lumayan sering mengasksesnya
  1. **Me**: Baiklah, apakah anda juga familiar atau sering membaca informasi di suatu website?
- 1. **Him**: Sama saja sih, baca-baca berita atau buka nilai di portal akademik kan juga sama :grin:
+ 1. **Him**: Sama sih, baca-baca berita atau buka nilai di portal akademik kan juga sama :grin:
  1. **Me**: Oke oke
  1. **Me**: Menurut anda seberapa penting pengkhususan/klasifikasi dari sebuah informasi seperti pembagian-pembagian konten sesuai waktu?
  1. **Him**: Menurut saya sangat penting, karena kita tidak akan melihat informasi jika pas pada saat ini, dan jika terlalu banyak ditampilkan juga lebih susah bacanya
@@ -67,9 +68,14 @@
  1. **Him**: Oke
  1. **Me**: Coba cari informasi tentang beasiswa tahun 2019
  1. **Him**: Hmm oke, ini sepertinya di awal buka sudah menampilkan tahun 2019, aku liat-liat kebawah dulu
- 1. **Him**: Udah
+ 1. **Him**: Ini kalo kursornya di bagian tengah, halamannya bisa bagus, kayak timbul-timbul gitu
+ 1. **Me**: Iya itu biar lebih jelas dan penggunanya fokus ke informasinya aja sih
+ 1. **Him**: Oalah bagus, Udah ini
  1. **Him**: ~Menunjukkan hasilnya~
  1. **Me**: Terus sekarang coba liat penerima beasiswa pada tahun 2018
+ 1. **Him**: ~Klik sidebar tahun 2017(salah pencet)~
+ 1. **Him**: ~Tampil halaman 2017~
+ 1. **Him**: Kok 2017 :grin: , salah pencet ternyata, abisnya kekecilan tulisan disana (sidebar)
  1. **Him**: ~Klik sidebar tahun 2018~
  1. **Him**: Ini udah
  1. **Him**: ~Menunjukkan hasilnya~
@@ -87,10 +93,40 @@
 
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 1. **Me**: Halo, selamat malam
+ 1. **Her**: Malam
+ 1. **Me**: Sebelumnya terimakasih sudah mau membantu saya
+ 1. **Him**: Iya
+ 1. **Me**: Apakah anda pernah membuka atau mengerti tentang web sistem informasi?
+ 1. **Him**: Saya kurang tau sih, tapi sering membaca-baca berita di Ponsel
+ 1. **Me**: Apakah anda familiar dengan membaca informasi di suatu website?
+ 1. **Him**: Kalau ini sering, saya sudah jarang membaca koran, tapi tiap pagi selalu membaca berita-berita di line today atau kompas, bahkan udah berlangganan
+ 1. **Me**: Hmm baiklah
+ 1. **Me**: Menurut anda seberapa penting pengkhususan/klasifikasi dari sebuah informasi seperti pembagian-pembagian konten sesuai waktu?
+ 1. **Him**: Kalau saya membaca berita ya yang lagi muncul belakangan ini saja, dan pasti muncul berita-berita yang baru juga. tapi kalau ingin cari berita-berita yang udah lama ya pernah juga
+ 1. **Me**: Baik, sekarang anda coba mengoperasikan ini (memberikan laptop)
+ 1. **Him**: Oke
+ 1. **Me**: Jika sudah siap, coba cari informasi tentang beasiswa tahun 2019
+ 1. **Him**: Iya, ini dari awal udah tahun 2019 isinya
+ 1. **Him**: Yang ini kan? ~menunjukkan hasil~
+ 1. **Me**: Iya, Sekarang coba cari penerima beasiswa tahun 2018
+ 1. **Him**: ~Scroll sampai bawah~
+ 1. **Him**: Ini cuma tahun ini saja ya?
+ 1. **Me**: Enggak kok, itu ada menu di kiri, tiggal pilih tahunnya
+ 1. **Him**: Oalah, saya nggak kelihatan menunya
+ 1. **Him**: ~Klik sidebar menu 2018~
+ 1. **Him**: Ini sudah saya buka (menunjukkan hasilnya), enak juga ya bisa milih-milih tahunnya, ga ribet-ribet baca kebawah, apalagi kalau pake hp
+ 1. **Me**: Iya, biar lebih cepat
+ 1. **Me**: Sekarang coba lihat untuk tahun 2017
+ 1. **Him**: ~Klik sidebar menu 2017~
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Terakhir, sekarang coba lihat untuk tahun 2016
+ 1. **Him**: ~Klik sidebar menu 2016~
+ 1. **Him**: Udah
+ 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Me**: Baik, terimakasih banyak bantuannya
+ 1. **Him**: Iya sama-sama
+
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
