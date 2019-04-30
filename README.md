@@ -129,42 +129,45 @@
 
 
 ### 4. Feedback and Incidence Analysis
-> Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
-
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
- 
-#### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![2019](/assets/2019.jpg)
 
  - **Reference**: 
  - **Feedback**: 
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Resolution**: 
  
-#### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+#### OBSERVATION 2
+![2018](/assets/2018.jpg)
 
- - **Reference**:  
+ - **Reference**: 
  - **Feedback**: 
  - **Incidence**: 
  - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
+ - **Resolution**: 
  
- ... and so on ...
- 
- ---
+#### OBSERVATION 3
+![2017](/assets/2017.jpg)
+
+ - **Reference**: 
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: 
+
+#### OBSERVATION 4
+![2016](/assets/2016.jpg)
+
+ - **Reference**: 
+ - **Feedback**: 
+ - **Incidence**: 
+ - **Reason**: 
+ - **Resolution**: 
+
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
 
 ### Sketch
 > Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
