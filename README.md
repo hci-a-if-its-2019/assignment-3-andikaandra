@@ -71,23 +71,27 @@
  1. **Him**: Ini kalo kursornya di bagian tengah, halamannya bisa bagus, kayak timbul-timbul gitu
  1. **Me**: Iya itu biar lebih jelas dan penggunanya fokus ke informasinya aja sih
  1. **Him**: Oalah bagus, Udah ini
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Menunjukkan hasilnya*
  1. **Me**: Terus sekarang coba liat penerima beasiswa pada tahun 2018
- 1. **Him**: ~Klik sidebar tahun 2017(salah pencet)~
- 1. **Him**: ~Tampil halaman 2017~
+ 1. **Him**: *Klik sidebar tahun 2017(salah pencet)*
+ 1. **Him**: *Tampil halaman 2017*
  1. **Him**: Kok 2017 :grin: , salah pencet ternyata, abisnya kekecilan tulisan disana (sidebar)
- 1. **Him**: ~Klik sidebar tahun 2018~
+ 1. **Him**: *Klik sidebar tahun 2018*
  1. **Him**: Ini udah
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Menunjukkan hasilnya*
+ 1. **Me**: Menurutmu gimana ?
+ 1. **Him**: Biasa aja sih, sama kayak biasanya, cuma jadi lebih simpel, ga banyak2 tulisan sampe bawah
  1. **Me**: Okee, sekarang kamu coba liat penerima beasiswa pada tahun 2017, lalu kamu baca-baca sampe bawah
- 1. **Him**: ~Klik sidebar tahun 2017~
- 1. **Him**: ~Membaca sampai bagian bawah~
+ 1. **Him**: *Klik sidebar tahun 2017*
+ 1. **Him**: *Membaca sampai bagian bawah*
  1. **Me**: Udah
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Menunjukkan hasilnya*
  1. **Me**: Sekarang coba kamu liat penerima beasiswa tahun 2016
  1. **Him**: Okee aku liat dulu
  1. **Him**: Udah
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Menunjukkan hasilnya*
+ 1. **Him**: Ini sampe 2016 kan ya, menurutku terlalu lama sih, harusnya sampai 2017 aja, terus yang 2016 sampe sebelum-sebelumnya itu dijadikan 1 halaman lain aja
+ 1. **Me**: Hmm bisa sih
  1. **Me**: Okee, makasih banyak bantuannya yaa
  1. **Him**: Sama-sama
 
@@ -108,22 +112,22 @@
  1. **Him**: Oke
  1. **Me**: Jika sudah siap, coba cari informasi tentang beasiswa tahun 2019
  1. **Him**: Iya, ini dari awal udah tahun 2019 isinya
- 1. **Him**: Yang ini kan? ~menunjukkan hasil~
+ 1. **Him**: Yang ini kan? *menunjukkan hasil*
  1. **Me**: Iya, Sekarang coba cari penerima beasiswa tahun 2018
- 1. **Him**: ~Scroll sampai bawah~
+ 1. **Him**: *Scroll sampai bawah*
  1. **Him**: Ini cuma tahun ini saja ya?
  1. **Me**: Enggak kok, itu ada menu di kiri, tiggal pilih tahunnya
  1. **Him**: Oalah, saya nggak kelihatan menunya
- 1. **Him**: ~Klik sidebar menu 2018~
+ 1. **Him**: *Klik sidebar menu 2018*
  1. **Him**: Ini sudah saya buka (menunjukkan hasilnya), enak juga ya bisa milih-milih tahunnya, ga ribet-ribet baca kebawah, apalagi kalau pake hp
  1. **Me**: Iya, biar lebih cepat
  1. **Me**: Sekarang coba lihat untuk tahun 2017
- 1. **Him**: ~Klik sidebar menu 2017~
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Klik sidebar menu 2017*
+ 1. **Him**: *Menunjukkan hasilnya*
  1. **Me**: Terakhir, sekarang coba lihat untuk tahun 2016
- 1. **Him**: ~Klik sidebar menu 2016~
+ 1. **Him**: *Klik sidebar menu 2016*
  1. **Him**: Udah
- 1. **Him**: ~Menunjukkan hasilnya~
+ 1. **Him**: *Menunjukkan hasilnya*
  1. **Me**: Baik, terimakasih banyak bantuannya
  1. **Him**: Iya sama-sama
 
@@ -131,41 +135,55 @@
 ### 4. Feedback and Incidence Analysis
 
 #### OBSERVATION 1
-![2019](/assets/2019.jpg)
+![2019](/assets/2019.JPG)
+Note: All page (2019,2018,2017,2016) apply same style and function
+ - **Reference**: Participant1[15-16], Participant2[15-16].
+ - **Feedback**: Positive.
+ - **Incidence**: Participant hover the information card.
+ - **Reason**: Effect of styling to make users keep focus reading.
+ - **Resolution**: -
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: 
- 
 #### OBSERVATION 2
-![2018](/assets/2018.jpg)
+![2018](/assets/2018.JPG)
+ - **Reference**: Participant1[25-25], Participant2[21-23].
+ - **Feedback**: None.
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: 
- 
 #### OBSERVATION 3
-![2017](/assets/2017.jpg)
-
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: 
+![2018](/assets/2017.JPG)
+ - **Reference**: Participant1[31-33], Participant2[25-27].
+ - **Feedback**: None.
+ - **Incidence**: -
+ - **Reason**: -
+ - **Resolution**: -
 
 #### OBSERVATION 4
-![2016](/assets/2016.jpg)
+![2016](/assets/2016.JPG)
+ - **Reference**: Participant1[38].
+ - **Feedback**: Negative.
+ - **Incidence**: Participant dont need information in 2016
+ - **Reason**: The information is too old.
+ - **Resolution**: Wrap information in 2016 and before to make new page.
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: 
+#### OBSERVATION 5
+![Sidebar](/assets/Sidebar.JPG)
 
+ - **Reference**: Participant1[21-23], Participant2[21].
+ - **Feedback**: Negative.
+ - **Incidence**: Participant press the wrong button, Participant did'nt see any sidebar at a glance.
+ - **Reason**: Sidebar too small.
+ - **Resolution**: Enlarge the size of the sidebar.
+
+#### OBSERVATION 6
+![Sidebar](/assets/Sidebar.JPG)
+
+ - **Reference**: Participant2[23].
+ - **Feedback**: Positive.
+ - **Incidence**: Participant easily change information by click.
+ - **Reason**: Information classified by year.
+ - **Resolution**: -
 
 ## Part B: Prototyping (again)
 
