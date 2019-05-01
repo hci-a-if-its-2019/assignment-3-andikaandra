@@ -13,6 +13,9 @@
     - [OBSERVATION 1](#observation-1)
     - [OBSERVATION 2](#observation-2)
     - [OBSERVATION 3](#observation-3)
+    - [OBSERVATION 4](#observation-4)
+    - [OBSERVATION 5](#observation-5)
+    - [OBSERVATION 6](#observation-6)
 - [Part B: Prototyping](#part-b-prototyping-again)
   - [Sketch](#sketch)
   - [Design Rationale](#design-rationale)
@@ -195,3 +198,4 @@ From usability evaluation, what we design must have clear goals, and help users 
 
 ### High-Fidelity Interactive-Prototype
 [High Fidelity Interactive-Prototype](/assets/hifi.zip)
+
