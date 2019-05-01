@@ -191,7 +191,7 @@ Note: All page (2019,2018,2017,2016) apply same style and function
 ## Part B: Prototyping (again)
 
 ### Sketch
-
+![sketch](/assets/sketch.jpg)
 
 ### Design Rationale
 From usability evaluation, what we design must have clear goals, and help users in carrying out their activities, increase user productivity without reducing comfort, and menu visibility / features are very important.
