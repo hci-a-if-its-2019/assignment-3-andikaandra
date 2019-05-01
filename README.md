@@ -188,16 +188,10 @@ Note: All page (2019,2018,2017,2016) apply same style and function
 ## Part B: Prototyping (again)
 
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+From usability evaluation, what we design must have clear goals, and help users in carrying out their activities, increase user productivity without reducing comfort, and menu visibility / features are very important.
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+[High Fidelity Interactive-Prototype](/assets/hifi.zip)
